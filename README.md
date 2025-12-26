@@ -9,3 +9,5 @@
 4. Blog on 2025 Researcher Agents papers titled ✍ Real-World Applications of AI Agents in Scientific Research (2025) is available at https://medium.com/tech-ai-made-easy/real-world-applications-of-ai-agents-in-scientific-research-2025-f741fa65714d
 
 5. Blog on 2025 Data Scientists Agents paper titled ✍ Real-World Applications of AI Agents (2025): How Data Scientists Are Building Autonomous ML Systems is available at https://medium.com/tech-ai-made-easy/real-world-applications-of-ai-agents-2025-how-data-scientists-are-building-autonomous-ml-bc800e99672d
+
+6. Blog on 2025 Enterprise Agents paper titled ✍ Enterprise AI Agents: How Organizations Build, Control, and Improve Agentic Systems in the Real World is available at https://medium.com/tech-ai-made-easy/enterprise-ai-agents-how-organizations-build-control-and-improve-agentic-systems-in-the-real-9acd8aa7c7f7
